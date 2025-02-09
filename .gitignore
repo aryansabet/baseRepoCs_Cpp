@@ -566,3 +566,7 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+
+playground/
+class_test/
